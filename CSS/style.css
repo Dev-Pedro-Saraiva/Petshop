@@ -1,0 +1,132 @@
+.HWA{
+    background-color:#F8D571 ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: start;
+    justify-content: center;
+    min-height: 200px;
+    width: 100vw;
+    
+}
+
+.Text1{
+    font-family: 'Pacifico', cursive;
+font-family: 'Rubik', sans-serif;
+font-family: 'Secular One', sans-serif;
+    z-index: 1;
+    font-weight: bolder;
+}
+
+.ab{
+    font-family: 'Pacifico', cursive;
+font-family: 'Rubik', sans-serif;
+font-family: 'Secular One', sans-serif;
+
+    font-weight: bolder;
+    color:#12e9e5;
+}
+
+.span1{
+    color:#00A19E;
+}
+
+.img1{
+    z-index: 1;
+}
+
+.relativo1{
+    display: flex;
+    position: absolute;
+    left: 9%;
+    z-index: 0;
+    filter: blur(4px);
+}
+.botao1{
+    margin-top: 20px;
+    width: 170px;
+    height: 60px;
+    background-color: #9ffdfc;
+    border: none;
+    border-radius: 16px;
+    color: #F8D571;
+    font-family: 'Pacifico', cursive;
+font-family: 'Rubik', sans-serif;
+font-family: 'Secular One', sans-serif;
+}
+.produtos{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+   
+}
+
+.compras{
+    display: flex;
+    flex-direction: column;
+}
+
+.compra1{
+    font-family: 'Playpen Sans', cursive;
+    margin-top: 25px;
+    display: flex;
+    gap: 45px;
+}
+
+.fotoscompras1{
+    font-family: 'Playpen Sans', cursive;
+    background-color: rgb(247, 247, 151);
+    border-radius: 20px;
+    width: 110px;
+    height: 130px;
+}
+
+.fotoscompras2{
+    font-family: 'Playpen Sans', cursive;
+    background-color: rgb(247, 247, 151);
+    border-radius: 20px;
+    width: 110px;
+    height: 130px;
+    
+}
+
+.compra2{
+    margin-top: 25px;
+    display: flex;
+    gap: 45px;
+}
+
+.compras svg{
+    width: 90px;
+    height: 90px;
+}
+
+
+
+h2{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-family: 'Pacifico', cursive;
+font-family: 'Rubik', sans-serif;
+font-family: 'Secular One', sans-serif;
+
+    font-weight: bolder;
+    color:#155857;
+}
+
+.Saiba{
+    margin-top: 8px;
+    background-color: #12e9e5;
+   border: none;
+   width: 80px;
+   height: 25px;
+   border-radius: 16px;
+}
+
+.Saiba a{
+    color: #000000;
+}

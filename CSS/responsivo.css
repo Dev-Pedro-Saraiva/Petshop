@@ -1,0 +1,55 @@
+@media (max-width: 730px) {
+    body{
+        width: 100vw;
+    }
+
+    .Text1{
+        margin-left: 33px;
+        font-size: 10px;
+
+    }
+
+
+    .fotoscompras1{
+        font-family: 'Playpen Sans', cursive;
+        background-color: rgb(247, 247, 151);
+        border-radius: 20px;
+        width: 90px;
+        height: 100px;
+    }
+    
+    .fotoscompras2{
+        font-family: 'Playpen Sans', cursive;
+        background-color: rgb(247, 247, 151);
+        border-radius: 20px;
+        width: 90px;
+        height: 100px;
+        
+    }
+    
+    .compra2{
+        margin-top: 25px;
+        display: flex;
+        gap: 45px;
+    }
+    
+    .compras svg{
+        width: 50px;
+        height: 50px;
+    }
+
+
+    .relativo1{
+        height: 90px;
+        width: 90px;
+        display: flex;
+        position: absolute;
+        left: 9%;
+        z-index: 0;
+        filter: blur(4px);
+    }
+
+
+
+
+}
